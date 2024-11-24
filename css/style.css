@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'SemiMono';
+    src: url("semi-mono.otf") format("opentype");
+}
+
+p {
+    font-family: 'SemiMono';
+}
