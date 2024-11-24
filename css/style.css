@@ -3,6 +3,10 @@
     src: url("semi-mono.otf") format("opentype");
 }
 
+:root {
+    overscroll-behavior: none;
+}
+
 p {
     font-family: 'SemiMono';
 }
